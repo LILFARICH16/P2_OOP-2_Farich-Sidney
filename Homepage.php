@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="Cinema.css">
 </head>
 <body>
+    <?php include 'includes/header.php';?>
     <h1>Welkom bij de Cinema!</h1>
 
     
